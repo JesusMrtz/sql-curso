@@ -1,0 +1,61 @@
+nombre,descripcion,activa
+Ficción Literaria,Obras de ficción con valor literario reconocido,TRUE
+Ciencia Ficción,Historias basadas en avances científicos y tecnológicos,TRUE
+Fantasía,Mundos imaginarios con elementos mágicos y sobrenaturales,TRUE
+Terror,Obras diseñadas para provocar miedo y suspenso,TRUE
+Misterio,Historias centradas en resolver crímenes o enigmas,TRUE
+Thriller,Novelas de suspense y acción trepidante,TRUE
+Romance,Historias centradas en relaciones amorosas,TRUE
+Novela Histórica,Ficción ambientada en épocas pasadas,TRUE
+Aventuras,Relatos de viajes y hazañas emocionantes,TRUE
+Drama,Obras que exploran conflictos emocionales profundos,TRUE
+Humor,Obras diseñadas para entretener y hacer reír,TRUE
+Poesía,Composiciones en verso,TRUE
+Ensayo,Textos de reflexión y análisis sobre diversos temas,TRUE
+Biografía,Relatos de vidas de personas reales,TRUE
+Autobiografía,Relatos escritos por el propio protagonista,TRUE
+Historia,Obras sobre eventos históricos reales,TRUE
+Filosofía,Textos de reflexión filosófica,TRUE
+Psicología,Obras sobre el comportamiento y la mente humana,TRUE
+Autoayuda,Guías para el desarrollo personal,TRUE
+Negocios,Libros sobre gestión empresarial y finanzas,TRUE
+Economía,Análisis económicos y financieros,TRUE
+Política,Obras sobre sistemas políticos y gobierno,TRUE
+Sociología,Estudios sobre la sociedad y sus dinámicas,TRUE
+Ciencia,Divulgación científica para público general,TRUE
+Tecnología,Obras sobre avances tecnológicos,TRUE
+Informática,Libros sobre programación y computación,TRUE
+Matemáticas,Textos matemáticos y de divulgación,TRUE
+Física,Obras sobre física y el universo,TRUE
+Química,Libros sobre química y sus aplicaciones,TRUE
+Biología,Textos sobre vida y seres vivos,TRUE
+Medicina,Obras médicas y de salud,TRUE
+Cocina,Recetarios y gastronomía,TRUE
+Viajes,Guías y relatos de viajes,TRUE
+Deportes,Libros sobre deportes y actividad física,TRUE
+Arte,"Obras sobre pintura, escultura y expresión artística",TRUE
+Música,Libros sobre teoría musical e historia,TRUE
+Cine,Análisis cinematográfico y guiones,TRUE
+Teatro,Obras dramáticas y estudios teatrales,TRUE
+Fotografía,Técnicas y arte fotográfico,TRUE
+Arquitectura,Diseño y construcción de edificios,TRUE
+Diseño,"Diseño gráfico, industrial y de interiores",TRUE
+Moda,Historia y tendencias de la moda,TRUE
+Jardinería,Cultivo de plantas y diseño de jardines,TRUE
+Mascotas,Cuidado y entrenamiento de animales,TRUE
+Infantil,Libros para niños de 0 a 8 años,TRUE
+Juvenil,Literatura para adolescentes,TRUE
+Young Adult,Novelas para jóvenes adultos,TRUE
+Cómic,Historietas y novelas gráficas,TRUE
+Manga,Cómic de origen japonés,TRUE
+Novela Negra,Crimen y detectives,TRUE
+Distopía,Sociedades futuras opresivas,TRUE
+Realismo Mágico,Elementos mágicos en contextos realistas,TRUE
+Clásicos,Obras literarias fundamentales,TRUE
+Contemporánea,Ficción actual,TRUE
+Erótica,Literatura con contenido adulto,FALSE
+Religión,Textos religiosos y espirituales,TRUE
+Espiritualidad,Desarrollo espiritual no religioso,TRUE
+Mitología,Mitos y leyendas de diversas culturas,TRUE
+Lingüística,Estudio del lenguaje,TRUE
+Derecho,Textos jurídicos y legales,TRUE

@@ -1,0 +1,4 @@
+Conclusión
+Las transacciones son el cinturón de seguridad de tu base de datos. En una aplicación real como Bookify, cada compra, cada cancelación y cada actualización de inventario debería estar envuelta en una transacción. Sin ellas, un simple fallo de red o un error inesperado podría dejar tu base de datos en un estado inconsistente: pedidos sin stock descontado, clientes sin pedidos, o libros con cantidades incorrectas.
+
+La combinación de BEGIN, COMMIT, ROLLBACK y SAVEPOINT te da el control total sobre qué se guarda, qué se deshace y hasta dónde puedes recuperarte cuando algo sale mal. No es una cuestión de si algo va a fallar, sino de cuándo. Y cuando falle, las transacciones serán tu mejor aliado.
